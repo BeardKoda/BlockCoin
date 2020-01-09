@@ -8,9 +8,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "BeardKoda",
   "license": "ISC",
   "dependencies": {
     "crypto-js": "^3.1.9-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BeardKoda/BlockCoin.git"
   }
 }
